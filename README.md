@@ -22,9 +22,9 @@ Here are some of the key technologies and tools I work with:
 
 Take a look at some of my featured projects:
 
-1. **Project 1**: [Educatalyst](https://educatalyst.netlify.app/) - Web-based platform for college students to get the best and free resources or materials like Books or Tutorials.
+1. **Project 1**: [Expense Tracker](https://expenz-tracker.netlify.app/dashboard) - A web application to manage and track day to day expenses and incomes with spend analysis.
 2. **Project 2**: [Sorting Algorithm Visualizer](https://milan-panda.github.io/SortingAlgorithm/) - Web application that enables users to visualize the different sorting algorithms like Bubble Sort, Heap Sort and many more.
-3. **Project 3**: [Expense Tracker](https://expenz-tracker.netlify.app/dashboard) - A web application to manage and track day to day expenses and incomes with spend analysis.
+3. **Project 3**: [Educatalyst](https://educatalyst.netlify.app/) - Web-based platform for college students to get the best and free resources or materials like Books or Tutorials.
 
 For more details and a comprehensive list of my projects, please check out my [portfolio website](https://milanpanda.netlify.app/).
 
