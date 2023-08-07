@@ -1,7 +1,5 @@
 # 👨‍💻 Milan Panda's GitHub Profile 👨‍💻
 
-## Welcome to My Coding World! 🌍
-
 ### Hey there! I'm Milan Panda, a passionate software developer with a love for creating elegant solutions to complex problems. I'm excited to share my journey, projects, and code snippets with you. So, grab a cup of ☕️, sit back, and let's dive into the world of coding together!
 
 ## 🧐 About Me
