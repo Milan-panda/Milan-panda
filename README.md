@@ -31,16 +31,19 @@ src="https://img.shields.io/twitter/follow/milanpanda__?logo=twitter&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Milan-panda"><img src="https://github-readme-stats.vercel.app/api?username=Milan-panda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Milan-panda's GitHub stats" /></a>
-
-<a href="http://www.github.com/Milan-panda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milan-panda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Milan-panda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan-panda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div width="100%">
+  <div>
+    <a href="http://www.github.com/Milan-panda" align="left"><img src="https://github-readme-stats.vercel.app/api?username=Milan-panda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Milan-panda's GitHub stats" /></a>
+<a href="http://www.github.com/Milan-panda" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milan-panda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  </div>
+<!--   <div>
+    <a href="https://github.com/Milan-panda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan-panda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </div> -->
+</div>
+<br /><br /><br />
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Milan-panda/URL-Shortner" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Milan-panda&repo=URL-Shortner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Milan-panda/ExpenseTracker" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Milan-panda&repo=ExpenseTracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Milan-panda/Educatalyst" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Milan-panda&repo=Educatalyst&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Milan-panda/dall-e" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Milan-panda&repo=dall-e&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
