@@ -1,42 +1,46 @@
-# **👨‍💻 Milan Panda's GitHub Profile 👨‍💻**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Milan Panda
+===================================================================================================================================
 
-**Hey there! I'm Milan Panda, a passionate software developer with a love for creating elegant solutions to complex problems. I'm excited to share my journey, projects, and code snippets with you. So, grab a cup of ☕️, sit back, and let's dive into the world of coding together!**
+Full Stack Web Developer
+------------------------
 
-## 🧐 About Me
+* 🌍  I'm based in Delhi, India
+* 🖥️  See my portfolio at [milanpanda](http://milanpanda.netlify.com)
+* ✉️  You can contact me at [milanpanda4425@gmail.com](mailto:milanpanda4425@gmail.com)
+* 🚀  I'm currently working on [Link Shortener](http://github.com/Milan-panda/URL-Shortner)
+* 🧠  I'm learning Next.js, TypeScript
+* 🤝  I'm open to collaborating on any project with lots of javascript involved
 
-I am a result-oriented developer with a knack for crafting efficient and scalable software solutions. My experience ranges from building web applications to developing mobile apps, always striving to improve my skills and expand my horizons. With a strong foundation in computer science and a deep understanding of programming languages like Java ☕️, Python 🐍, JavaScript 🌐, and C++ 🖥️ I am constantly seeking opportunities to grow and contribute to the tech community.
+<a href="https://www.x.com/milanpanda__" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/milanpanda__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-## ⚡️ Technologies and Tools
+### Skills
 
-Here are some of the key technologies and tools I work with:
 
-- **Languages**: Java ☕️, Python 🐍, JavaScript 🌐, C++ 🖥️
-- **Web Development**: HTML5, CSS3, React ⚛️, Node.js 🛠️
-- **Database**: MySQL, MongoDB 🍃
-- **Version Control**: Git 🗂️
-- **Testing**: JUnit
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
-## 🌟 Projects
 
-Take a look at some of my featured projects:
+### Socials
 
-1. **Project 1**: [Expense Tracker](https://expenz-tracker.netlify.app/dashboard) - A web application to manage and track day to day expenses and incomes with spend analysis.
-2. **Project 2**: [Sorting Algorithm Visualizer](https://milan-panda.github.io/SortingAlgorithm/) - Web application that enables users to visualize the different sorting algorithms like Bubble Sort, Heap Sort and many more.
-3. **Project 3**: [Educatalyst](https://educatalyst.netlify.app/) - Web-based platform for college students to get the best and free resources or materials like Books or Tutorials.
+<p align="left"> <a href="https://www.github.com/Milan-panda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/milanpanda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/milanpanda__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-For more details and a comprehensive list of my projects, please check out my [portfolio website](https://milanpanda.netlify.app/).
+### Badges
 
-I'm always excited to work on new open source projects and engage with the developer community.
+<b>My GitHub Stats</b>
 
-## ✨ Let's Connect
+<a href="http://www.github.com/Milan-panda"><img src="https://github-readme-stats.vercel.app/api?username=Milan-panda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Milan-panda's GitHub stats" /></a>
 
-You can find me on various platforms:
+<a href="http://www.github.com/Milan-panda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milan-panda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/milanpanda/)
-- 🌐 [Portfolio Website](https://milanpanda.netlify.app/)
-- 🐦 [Twitter](https://twitter.com/MilanPanda2000)
-- ✉️ [Email](mailto:milanpanda4425@gmail.com)
+<a href="https://github.com/Milan-panda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan-panda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-Feel free to reach out to me if you have any questions, project ideas, or just want to say hi. I'm looking forward to connecting with fellow developers and exploring new opportunities.
+<b>Top Repositories</b>
 
-Thank you for visiting my GitHub profile! Enjoy exploring and happy coding! 😄🚀
+<div width="100%" align="center"><a href="https://github.com/Milan-panda/URL-Shortner" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Milan-panda&repo=URL-Shortner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Milan-panda/ExpenseTracker" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Milan-panda&repo=ExpenseTracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Milan-panda/Educatalyst" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Milan-panda&repo=Educatalyst&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Milan-panda/dall-e" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Milan-panda&repo=dall-e&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
