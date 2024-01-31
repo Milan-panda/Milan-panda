@@ -9,7 +9,7 @@ Full Stack Web Developer
 * ✉️  You can contact me at [milanpanda4425@gmail.com](mailto:milanpanda4425@gmail.com)
 * 🚀  I'm currently working on [Link Shortener](http://github.com/Milan-panda/URL-Shortner)
 * 🧠  I'm learning Next.js, TypeScript
-* 🤝  I'm open to collaborating on any project with lots of javascript involved
+* 🤝  Do you have any project in mind, I'm open to collaborate
 
 <a href="https://www.x.com/milanpanda__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/milanpanda__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
