@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Delhi, India
-* 🖥️  See my portfolio at [milanpanda](http://milanpanda.netlify.com)
+* 🖥️  See my portfolio at [milanpanda](http://milanpanda.netlify.app)
 * ✉️  You can contact me at [milanpanda4425@gmail.com](mailto:milanpanda4425@gmail.com)
 * 🚀  I'm currently working on [Link Shortener](http://github.com/Milan-panda/URL-Shortner)
 * 🧠  I'm learning Next.js, TypeScript
