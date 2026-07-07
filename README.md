@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Milan Panda
 ===================================================================================================================================
 
-Full Stack Web Developer
+Full Stack Software Engineer
 ------------------------
 
 * 🌍  I'm based in Delhi, India
 * 🖥️  See my portfolio at [milanpanda](http://milanpanda.netlify.app)
 * ✉️  You can contact me at [milanpanda4425@gmail.com](mailto:milanpanda4425@gmail.com)
-* 🚀  I'm currently working on [Link Shortener](http://github.com/Milan-panda/URL-Shortner)
-* 🧠  I'm learning Next.js, TypeScript
+* 🚀  I'm currently working on [Togglebit](https://github.com/Milan-panda/togglebit) and [Knowrix](https://github.com/Milan-panda/knowrix)
 * 🤝  Do you have any project in mind, I'm open to collaborate
 
 <a href="https://www.x.com/milanpanda__" target="_blank" rel="noreferrer"><img
